@@ -2,4 +2,4 @@
 SPECTRA REMOTE ADMINISTRATION 
 
 
-[img]https://i.ibb.co/hfYjKS9/af3NFmb.png[/img]
+![33]([https://i.imgur.com/1rjXlPY.jpg](https://i.ibb.co/hfYjKS9/af3NFmb.png))
