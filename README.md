@@ -426,4 +426,6 @@ Disable Windows Defender
 ● Blocked Clients
 
 
+MORE INFO:
+https://spectra-shop.mysellix.io
 
