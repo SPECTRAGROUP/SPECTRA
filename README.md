@@ -427,5 +427,7 @@ Disable Windows Defender
 
 
 MORE INFO:
-https://spectra-shop.mysellix.io
+
+(https://getsession.org/) GetSession ID -
+Session ID : 05ed17e8c772ad158cf56fb610279bc9fb387d661bd0323c09f245af65b4df2d27
 
